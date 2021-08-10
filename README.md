@@ -1,4 +1,5 @@
 # Node DB2 Project Starter Code
+codegrade
 
 ## Introduction
 
